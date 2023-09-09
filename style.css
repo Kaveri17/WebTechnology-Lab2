@@ -12,9 +12,6 @@
     justify-content: center;
     align-items: center;
     background-image: radial-gradient( circle 857px at 3.1% 9.3%, rgba(32,32,106,1) 0%, rgb(1, 2, 36) 100.1% );
-    /* background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(0,0,0,1) 0%, rgba(0,31,71,1) 100.2% ); */
-    /* background-image: radial-gradient( circle 857px at 3.1% 9.3%, rgba(32,32,106,1) 0%, rgb(2, 4, 56) 100.1% ); */
-    /* background-image: radial-gradient( circle 661px at 87.4% 80.7%, rgba(25,2,112,1) 0%, rgba(18,0,82,1) 26.3%, rgba(14,1,62,1) 57.3%, rgba(12,1,54,1) 62.5%, rgba(0,0,0,1) 100.1% ); */
 }
 .heading{
     display: flex;
@@ -32,7 +29,6 @@
 }
 .search-div{
     position: relative;
-    /* align-items: center; */
 }
 .search-div input{
     padding: 1.5rem 1rem;
